@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**API's Implemented**
+[Robo Hash](https://robohash.org/)<br>
+[JSON Users](http://jsonplaceholder.typicode.com/users)
+
 ## Available Scripts
 
 In the project directory, you can run:
