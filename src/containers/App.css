@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Mandalore Laser Title Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Mandalore Laser Title Regular'), url('mandalorelasertitle.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Mandalore Laser Title Regular';
+    font-weight: 200;
+    color: #0c9eca;
+}
+
+.roboHeader {
+    font-family: 'Mandalore Laser Title Regular';
+    font-weight: 200;
+    color: #0c9eca;
+    font-size: 6rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .roboHeader {
+        font-family: 'Mandalore Laser Title Regular';
+        font-weight: 200;
+        color: #0c9eca;
+        font-size: 4rem;
+    }
+  }
