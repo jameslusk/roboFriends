@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/robofriends-1/static/css/main.70351978.chunk.css",
-    "main.js": "/robofriends-1/static/js/main.e05edb9a.chunk.js",
-    "main.js.map": "/robofriends-1/static/js/main.e05edb9a.chunk.js.map",
-    "runtime-main.js": "/robofriends-1/static/js/runtime-main.de709ebd.js",
-    "runtime-main.js.map": "/robofriends-1/static/js/runtime-main.de709ebd.js.map",
-    "static/css/2.31461e4f.chunk.css": "/robofriends-1/static/css/2.31461e4f.chunk.css",
-    "static/js/2.8b603db1.chunk.js": "/robofriends-1/static/js/2.8b603db1.chunk.js",
-    "static/js/2.8b603db1.chunk.js.map": "/robofriends-1/static/js/2.8b603db1.chunk.js.map",
-    "index.html": "/robofriends-1/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/robofriends-1/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.70351978.chunk.css.map": "/robofriends-1/static/css/main.70351978.chunk.css.map",
-    "static/js/2.8b603db1.chunk.js.LICENSE.txt": "/robofriends-1/static/js/2.8b603db1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends-1/static/media/mandalorelasertitle.c69ea2ea.woff"
+    "main.css": "/roboFriends/static/css/main.83091b0c.chunk.css",
+    "main.js": "/roboFriends/static/js/main.0848a4c0.chunk.js",
+    "main.js.map": "/roboFriends/static/js/main.0848a4c0.chunk.js.map",
+    "runtime-main.js": "/roboFriends/static/js/runtime-main.0f73d1f9.js",
+    "runtime-main.js.map": "/roboFriends/static/js/runtime-main.0f73d1f9.js.map",
+    "static/css/2.31461e4f.chunk.css": "/roboFriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.8b603db1.chunk.js": "/roboFriends/static/js/2.8b603db1.chunk.js",
+    "static/js/2.8b603db1.chunk.js.map": "/roboFriends/static/js/2.8b603db1.chunk.js.map",
+    "index.html": "/roboFriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/roboFriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.83091b0c.chunk.css.map": "/roboFriends/static/css/main.83091b0c.chunk.css.map",
+    "static/js/2.8b603db1.chunk.js.LICENSE.txt": "/roboFriends/static/js/2.8b603db1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboFriends/static/media/mandalorelasertitle.c69ea2ea.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.de709ebd.js",
+    "static/js/runtime-main.0f73d1f9.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.8b603db1.chunk.js",
-    "static/css/main.70351978.chunk.css",
-    "static/js/main.e05edb9a.chunk.js"
+    "static/css/main.83091b0c.chunk.css",
+    "static/js/main.0848a4c0.chunk.js"
   ]
 }

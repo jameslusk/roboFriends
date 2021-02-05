@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can view the live project by clicking [here](https://jameslusk.github.io/robofriends-1).
+You can view the live project by clicking [here](https://jameslusk.github.io/roboFriends).
 
 **API's Implemented**<br>
 [Robo Hash](https://robohash.org/)<br>
