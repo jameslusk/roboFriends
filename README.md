@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**API's Implemented**
+You can view the live project by clicking [here](https://jameslusk.github.io/robofriends-1).
+
+**API's Implemented**<br>
 [Robo Hash](https://robohash.org/)<br>
-[JSON Users](http://jsonplaceholder.typicode.com/users)
+[JSON Users](https://jsonplaceholder.typicode.com/users)
 
 ## Available Scripts
 
